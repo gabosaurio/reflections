@@ -21,3 +21,9 @@ one instead of another?
   change its location.
   Finally a branch is an alternative commit path which helps fix bugs or
   implement new features.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  We can compare our changes with the original file and scan for possible
+  conflicts (in case someone updated it on GitHub).
