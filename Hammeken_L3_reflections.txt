@@ -27,3 +27,12 @@ stored locally?
 
   We can compare our changes with the original file and scan for possible
   conflicts (in case someone updated it on GitHub).
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+  Without these tools, I think the collaboration would happen over Google Drive
+  or another collaboration platform. Also it would more often take place in
+  person or over a video call. This means updating changes would be easier as
+  well as recording them, but keeping version control and tracking changes
+  would practically be impossible.
