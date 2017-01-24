@@ -36,3 +36,12 @@ what would be harder?
   person or over a video call. This means updating changes would be easier as
   well as recording them, but keeping version control and tracking changes
   would practically be impossible.
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+  Making changes in a separate branch lets you run them through collaborators
+  before making a change to the master. This helps avoid breaking the app in
+  case someone made progress in the master branch and your changes do not take
+  this into consideration. Also doing separate branches lets you concentrate on
+  specific features.
